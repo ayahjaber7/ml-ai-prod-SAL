@@ -59,4 +59,4 @@ Figure 1 – System Architecture Diagram
 
 ---
 
-**Maintained by:** Team SAL (2025 Fall – ML & AI in Production)
+**Maintained by:** Team SAL (2025 Fall – ML & AI in Production FAU)
