@@ -1,8 +1,6 @@
 # Cloud-Native Movie Recommender – Team SAL  
 
 **Course:** ML & AI in Production  
-**Milestone 1:** Team Formation, Contract & Technical Proposal  
-**Due:** October 6, 2025 @ 11:59 PM  
 
 ---
 
